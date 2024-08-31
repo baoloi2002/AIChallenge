@@ -1,0 +1,15 @@
+# Ignore virtual environment
+venv/
+.venv/
+
+# Ignore all .mp4 files
+*.mp4
+
+# Ignore all .npy files
+*.npy
+
+# Ignore all .mp3 files
+*.mp3
+
+# Ignore all .jpg files
+*.jpg
