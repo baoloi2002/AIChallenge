@@ -13,9 +13,3 @@ venv/
 
 # Ignore all .jpg files
 *.jpg
-
-# Ignore all .json files
-*.json
-
-# Ignore all .csv files
-*.csv
