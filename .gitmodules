@@ -1,3 +1,6 @@
 [submodule "transformers"]
 	path = transformers
 	url = https://github.com/datquocnguyen/transformers.git
+[submodule "VnCoreNLP"]
+	path = VnCoreNLP
+	url = https://github.com/vncorenlp/VnCoreNLP
