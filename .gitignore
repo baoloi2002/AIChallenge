@@ -13,3 +13,6 @@ venv/
 
 # Ignore all .jpg files
 *.jpg
+
+# Ignore all .pt files
+*.pt
