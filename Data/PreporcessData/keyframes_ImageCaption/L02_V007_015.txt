@@ -1,0 +1,1 @@
+Một dấu hiệu cho biết khu vực sàng lọc và cô lập của Khu Vuc C LC

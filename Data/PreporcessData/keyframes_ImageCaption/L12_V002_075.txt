@@ -1,0 +1,1 @@
+inn post để khởi chạy dịch vụ mới cho việc gửi tài liệu trực tiếp

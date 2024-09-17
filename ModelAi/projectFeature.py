@@ -29,54 +29,45 @@ class AttentionReduce(nn.Module):
 
 
 class PJF(nn.Module):
-    def __init__(self, input_dim=768, num_heads=16, output_dim=4096, dropout=0.4):
+    def __init__(self, input_dim=768, num_heads=12, output_dim=1024, dropout=0.4):
         super(PJF, self).__init__()
         self.dropout = nn.Dropout(dropout)
-        self.attention = nn.MultiheadAttention(
-            input_dim=input_dim, num_heads=num_heads, dropout=dropout
-        )
         self.layer_norm = nn.LayerNorm(input_dim)
-        self.ffn = nn.Sequential(
-            nn.Linear(input_dim, input_dim * 2),
-            nn.ReLU(),
-            nn.Dropout(dropout),
-            nn.Linear(input_dim * 2, input_dim),
-        )
         self.attention_2 = nn.MultiheadAttention(
-            input_dim=input_dim, num_heads=num_heads, dropout=dropout
+            embed_dim=input_dim, num_heads=num_heads, dropout=dropout
         )
         self.atte_reduce = AttentionReduce(input_dim, input_dim // 2, 1)
 
         self.ffn_2 = nn.Sequential(
             nn.Linear(input_dim, input_dim * 2),
             nn.ReLU(),
-            nn.Linear(input_dim * 2, input_dim),
-        )
-
-        self.fc = nn.Sequential(
-            nn.Linear(input_dim, input_dim * 2),
             nn.Linear(input_dim * 2, output_dim),
         )
 
     def forward(self, x):
-        y, _ = self.attention(x, x, x)
-        x = self.layer_norm(x + y)
-        x = self.ffn(x)
         y, _ = self.attention_2(x, x, x)
         x = self.atte_reduce(y, x)
-        x = self.layer_norm(x + self.dropout(self.ffn_2(x)))
-        x = self.fc(x)
+        x = self.ffn_2(x)
         return x
 
 
 class PJFTrainModel(nn.Module):
-    def __init__(self, input_dim=768, num_heads=16, output_dim=4096, dropout=0.4):
+    def __init__(
+        self, input_dim=768, num_heads=12, output_dim=1024, dropout=0.4, model=None
+    ):
         super(PJFTrainModel, self).__init__()
-        self.model_1 = PJF(input_dim, num_heads, output_dim, dropout)
-        self.model_2 = PJF(input_dim, num_heads, output_dim, dropout)
+        self.model = model
+        self.norm = nn.LayerNorm(output_dim)
 
     def forward(self, x, y):
-        x = self.model_1(x)
-        y = self.model_2(y)
+        val_x = self.model(x)
+        val_y = self.model(y)
 
-        return (x - y).square()
+        val_x = torch.sum(val_x, dim=0)
+        val_y = torch.sum(val_y, dim=0)
+
+        val_x = self.norm(val_x)
+        val_y = self.norm(val_y)
+
+        f = (val_x - val_y).square()
+        return f

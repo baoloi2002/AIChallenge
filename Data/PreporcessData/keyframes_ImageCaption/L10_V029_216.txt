@@ -1,0 +1,1 @@
+trên cửa kho trong cửa kho chứa rất lớn khi khởi chạy trong một cửa chứa

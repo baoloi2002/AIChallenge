@@ -1,188 +1,310 @@
-<mxfile host="65bd71144e" pages="3">
-    <diagram name="Page-1" id="XyAQuADCcVB4QTmkmdjG">
-        <mxGraphModel dx="988" dy="1484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-            <root>
-                <mxCell id="0"/>
-                <mxCell id="1" parent="0"/>
-                <mxCell id="_iK8D-2FvXh4Rmg2TUd6-1" value="Làm rõ vấn đề" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=30;" parent="1" vertex="1">
-                    <mxGeometry x="80" y="80" width="240" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="_iK8D-2FvXh4Rmg2TUd6-2" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-2f229cfb-7fff-bcd9-1587-58c7b197e882&quot;&gt;&lt;h1 dir=&quot;ltr&quot; style=&quot;line-height:1.44;text-align: center;margin-top:5pt;margin-bottom:9pt;&quot;&gt;&lt;span style=&quot;font-size:20pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Nội dung cuộc thi&lt;/span&gt;&lt;/h1&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:9pt;&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Yêu cầu trong cuộc thi AI Challenge lần thứ V năm 2024 là phát triển một ứng dụng phần mềm hỗ trợ người dùng tìm kiếm một sự kiện trong kho dữ liệu video tin tức theo yêu cầu truy vấn cụ thể.&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:9pt;&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Các loại yêu cầu truy vấn:&lt;/span&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;padding-inline-start:48px;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:12pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;text-align: justify;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Yêu cầu truy vấn dạng văn bản (Textual KIS)&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;: Ban giám khảo cung cấp mô tả bằng ngôn ngữ tự nhiên của một sự kiện. Các đội dự thi cần tìm ra chính xác đoạn video của sự kiện này. Đoạn mô tả có thể gồm nhiều ý, nhiều câu văn.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;padding-inline-start:48px;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:circle;font-size:12pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot; aria-level=&quot;2&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;text-align: justify;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Ở &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;vòng sơ tuyển&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;: nội dung đoạn mô tả được &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:700;font-style:italic;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;cung cấp sẵn, trọn vẹn&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; để các đội dự thi có thể tìm kiếm video theo mô tả.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:circle;font-size:12pt;font-family:Arial,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot; aria-level=&quot;2&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;text-align: justify;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Ở &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;vòng chung kết:&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; nội dung đoạn mô tả sẽ được &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:italic;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;cung cấp lần lượt&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; theo thời gian dành cho câu truy vấn. Nếu đội dự thi tự tin vào kết quả tìm kiếm video từ những mô tả ban đầu, đội dự thi có thể nộp kết quả sớm để có thể được điểm cao cho câu truy vấn này (nếu kết quả đúng). Tuy nhiên, đội dự thi có thể thận trọng chờ thêm các mô tả tiếp theo về sự kiện để kiểm chứng kết quả tìm được.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:12pt;font-family:Arial,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;text-align: justify;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Yêu cầu truy vấn dạng hình ảnh hay video (Video KIS)&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;: thay vì mô tả bằng ngôn ngữ tự nhiên, các đội dự thi sẽ xem một đoạn video ngắn (không quá 20 giây) được trích ra từ một sự kiện nào đó trong kho dữ liệu video đã cho. Các đội không được phép chụp ảnh, ghi hình đoạn video này để đưa vào công cụ của mình mà phải tìm cách diễn tả yêu cầu tìm kiếm, ví dụ như mô tả bằng ngôn ngữ tự nhiên nội dung video hay vẽ lại bối cảnh mình nhìn thấy… Dạng truy vấn này chỉ được áp dụng ở &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;vòng chung kết&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; của cuộc thi.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:12pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;text-align: justify;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Yêu cầu truy vấn dạng Q&amp;amp;A&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;: Ban giám khảo cung cấp mô tả bằng ngôn ngữ tự nhiên của một sự kiện và câu hỏi về thông tin trong sự kiện này. Các đội dự thi cần tìm ra chính xác đoạn video của sự kiện này. Đoạn mô tả có thể gồm nhiều ý, nhiều câu văn. Câu trả lời là một chuỗi gồm các ký tự từ “0” đến “9”.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;padding-inline-start:48px;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:circle;font-size:12pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot; aria-level=&quot;2&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;text-align: justify;margin-top:0pt;margin-bottom:9pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Ở &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;vòng sơ tuyển&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;: nội dung đoạn mô tả được &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:700;font-style:italic;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;cung cấp sẵn, trọn vẹn&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; để các đội dự thi có thể tìm kiếm video theo mô tả&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Ở &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;vòng chung kết:&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; Câu hỏi sẽ &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:700;font-style:italic;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;được cung cấp ngay từ đầu&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;. Nội dung đoạn mô tả sẽ được &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:700;font-style:italic;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;cung cấp lần lượt&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; theo thời gian dành cho câu truy vấn. Nếu đội dự thi tự tin vào kết quả tìm kiếm video từ những mô tả ban đầu, đội dự thi có thể nộp kết quả sớm để có thể được điểm cao cho câu truy vấn này (nếu kết quả đúng). Tuy nhiên, đội dự thi có thể thận trọng chờ thêm các mô tả tiếp theo về sự kiện để kiểm chứng kết quả tìm được.&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="100" y="120" width="560" height="930" as="geometry"/>
-                </mxCell>
-                <mxCell id="_iK8D-2FvXh4Rmg2TUd6-3" value="Dạng 1:&lt;div&gt;- có nhiều câu mô tả. có thể cùng lúc hoặc lần lượt -&amp;gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;trả ra vị trí và video.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Dạng 2:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Từ video -&amp;gt; mô tả ảnh hoặc văn bản -&amp;gt; trả ra vị trí của video&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Dạng 3:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Giống với dạng 1. nhưng lần này sẽ đưa ra câu trả lời cho câu hỏi thay vì vị trí video đó&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
-                    <mxGeometry x="750" y="310" width="310" height="190" as="geometry"/>
-                </mxCell>
-            </root>
-        </mxGraphModel>
-    </diagram>
-    <diagram id="Unx6OYOfaWwuwpdmfeZV" name="Page-2">
-        <mxGraphModel dx="988" dy="2584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-            <root>
-                <mxCell id="0"/>
-                <mxCell id="1" parent="0"/>
-                <mxCell id="64__7UQ6sDWs-SWu5UM7-1" value="Mô hình yêu cầu (Tạm thời)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Xác định được &lt;u&gt;danh sách&lt;/u&gt; những Video khả thi liên quan đến truy vấn đang tìm kiếm. -&amp;gt; Giảm thời gian phải xử lý.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Với mỗi video trả ra đoạn khả thi nhất theo điểm số nào đó [u,v]. -&amp;gt; để người dùng xem lại một lần&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Trả lời câu hỏi sẽ do người dùng cân nhắc nội dung của video&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- khi các câu mô tả được thêm vào hệ thống phải chạy tiếp chứ không được chạy lại&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Có thể chọn các tham số như checkbox để lấy phần giao, hợp, hoặc loại ra.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Có thể thêm video vào dễ dàng&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Có giao diện thân thiện -&amp;gt; DJANGO ?&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
-                    <mxGeometry x="100" y="-70" width="450" height="520" as="geometry"/>
-                </mxCell>
-            </root>
-        </mxGraphModel>
-    </diagram>
-    <diagram id="rfIR66pPYt_yQYKcGMVf" name="Page-3">
-        <mxGraphModel dx="1838" dy="1484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-            <root>
-                <mxCell id="0"/>
-                <mxCell id="1" parent="0"/>
-                <mxCell id="wkcmUXmksVHShLTnnCpT-3" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wkcmUXmksVHShLTnnCpT-1" target="wkcmUXmksVHShLTnnCpT-2" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="wkcmUXmksVHShLTnnCpT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wkcmUXmksVHShLTnnCpT-1" target="wkcmUXmksVHShLTnnCpT-4" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="wkcmUXmksVHShLTnnCpT-1" value="Video" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="40" y="280" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="wkcmUXmksVHShLTnnCpT-11" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wkcmUXmksVHShLTnnCpT-2" target="wkcmUXmksVHShLTnnCpT-10" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="wkcmUXmksVHShLTnnCpT-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wkcmUXmksVHShLTnnCpT-2" target="wkcmUXmksVHShLTnnCpT-12" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="wkcmUXmksVHShLTnnCpT-2" value="Văn bản Âm thanh" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="240" y="160" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="wkcmUXmksVHShLTnnCpT-16" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wkcmUXmksVHShLTnnCpT-4" target="wkcmUXmksVHShLTnnCpT-14" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="wkcmUXmksVHShLTnnCpT-4" value="KeyFrame" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="240" y="280" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="wkcmUXmksVHShLTnnCpT-6" value="Media Info" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="240" y="440" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="wkcmUXmksVHShLTnnCpT-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;" parent="1" source="wkcmUXmksVHShLTnnCpT-1" target="wkcmUXmksVHShLTnnCpT-6" edge="1">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="100" y="460" as="sourcePoint"/>
-                        <mxPoint x="150" y="410" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="wkcmUXmksVHShLTnnCpT-8" value="Clip feature 32" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="240" y="520" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="wkcmUXmksVHShLTnnCpT-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="wkcmUXmksVHShLTnnCpT-1" target="wkcmUXmksVHShLTnnCpT-8" edge="1">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="180" y="290" as="sourcePoint"/>
-                        <mxPoint x="190" y="440" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="wkcmUXmksVHShLTnnCpT-10" value="Object được nhắc tới" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="440" y="40" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="wkcmUXmksVHShLTnnCpT-12" value="Tóm tắt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="440" y="120" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="wkcmUXmksVHShLTnnCpT-14" value="Object trong từng key frame" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="440" y="200" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="wkcmUXmksVHShLTnnCpT-17" value="Image Caption" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="440" y="280" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="wkcmUXmksVHShLTnnCpT-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;" parent="1" source="wkcmUXmksVHShLTnnCpT-4" target="wkcmUXmksVHShLTnnCpT-17" edge="1">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="340" y="420" as="sourcePoint"/>
-                        <mxPoint x="390" y="370" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="wkcmUXmksVHShLTnnCpT-20" value="OCR ???" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="440" y="360" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="wkcmUXmksVHShLTnnCpT-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;" parent="1" source="wkcmUXmksVHShLTnnCpT-4" target="wkcmUXmksVHShLTnnCpT-20" edge="1">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="430" y="480" as="sourcePoint"/>
-                        <mxPoint x="450" y="390" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NdYlCeQCbCe_D5UK2hrB-12" target="ByELKKtamKLCPXEzUEcX-1" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="NdYlCeQCbCe_D5UK2hrB-12" value="List Object" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="40" y="640" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-1" value="Dùng như bảng đặc trưng - vector (1x gì đó)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="240" y="640" width="160" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-3" value="Dùng như filter để lọc video - chia thành các list khác nhau" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="240" y="720" width="160" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NdYlCeQCbCe_D5UK2hrB-12" target="ByELKKtamKLCPXEzUEcX-3" edge="1">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="230" y="630" as="sourcePoint"/>
-                        <mxPoint x="280" y="580" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ByELKKtamKLCPXEzUEcX-5" target="ByELKKtamKLCPXEzUEcX-6" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-5" value="Caption hay các dạng văn bản mang ý nghĩa" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="40" y="840" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ByELKKtamKLCPXEzUEcX-6" target="ByELKKtamKLCPXEzUEcX-8" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-6" value="Model nào đó" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="200" y="840" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-8" value="Đặc trưng dạng 1 chiều - black box - vector (1 x 4096) ???" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="360" y="840" width="200" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ByELKKtamKLCPXEzUEcX-10" target="ByELKKtamKLCPXEzUEcX-12" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-10" value="Caption 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="80" y="960" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ByELKKtamKLCPXEzUEcX-11" target="ByELKKtamKLCPXEzUEcX-14" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-11" value="Caption 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="80" y="1040" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ByELKKtamKLCPXEzUEcX-12" target="ByELKKtamKLCPXEzUEcX-16" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-12" value="Model nào đó" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="240" y="960" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ByELKKtamKLCPXEzUEcX-14" target="ByELKKtamKLCPXEzUEcX-18" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-14" value="Model nào đó" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="240" y="1040" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ByELKKtamKLCPXEzUEcX-16" target="ByELKKtamKLCPXEzUEcX-21" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-16" value="1x4096" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="400" y="960" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ByELKKtamKLCPXEzUEcX-18" target="ByELKKtamKLCPXEzUEcX-21" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-18" value="1x4096" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="400" y="1040" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-20" value="Maybe train theo cách này&lt;br&gt;- Lấy 2 cái caption khác nhau nhưng đều cùng về video đó&lt;br&gt;- dùng model để tạo ra vector feature 1 chiều&lt;div&gt;- Trừ nhau&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Loss tính càng gần 0 càng tốt.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="-210" y="960" width="270" height="140" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ByELKKtamKLCPXEzUEcX-21" target="ByELKKtamKLCPXEzUEcX-24" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-21" value="Lấy caption 1 - cho caption 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="560" y="1000" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="ByELKKtamKLCPXEzUEcX-24" value="Tất cả giá trị gần 0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="710" y="1000" width="120" height="60" as="geometry"/>
-                </mxCell>
-            </root>
-        </mxGraphModel>
-    </diagram>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14" pages="4">
+  <diagram name="Page-1" id="XyAQuADCcVB4QTmkmdjG">
+    <mxGraphModel dx="988" dy="1484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_iK8D-2FvXh4Rmg2TUd6-1" value="Làm rõ vấn đề" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=30;" parent="1" vertex="1">
+          <mxGeometry x="80" y="80" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_iK8D-2FvXh4Rmg2TUd6-2" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-2f229cfb-7fff-bcd9-1587-58c7b197e882&quot;&gt;&lt;h1 dir=&quot;ltr&quot; style=&quot;line-height:1.44;text-align: center;margin-top:5pt;margin-bottom:9pt;&quot;&gt;&lt;span style=&quot;font-size:20pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Nội dung cuộc thi&lt;/span&gt;&lt;/h1&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:9pt;&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Yêu cầu trong cuộc thi AI Challenge lần thứ V năm 2024 là phát triển một ứng dụng phần mềm hỗ trợ người dùng tìm kiếm một sự kiện trong kho dữ liệu video tin tức theo yêu cầu truy vấn cụ thể.&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:9pt;&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Các loại yêu cầu truy vấn:&lt;/span&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;padding-inline-start:48px;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:12pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;text-align: justify;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Yêu cầu truy vấn dạng văn bản (Textual KIS)&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;: Ban giám khảo cung cấp mô tả bằng ngôn ngữ tự nhiên của một sự kiện. Các đội dự thi cần tìm ra chính xác đoạn video của sự kiện này. Đoạn mô tả có thể gồm nhiều ý, nhiều câu văn.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;padding-inline-start:48px;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:circle;font-size:12pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot; aria-level=&quot;2&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;text-align: justify;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Ở &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;vòng sơ tuyển&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;: nội dung đoạn mô tả được &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:700;font-style:italic;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;cung cấp sẵn, trọn vẹn&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; để các đội dự thi có thể tìm kiếm video theo mô tả.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:circle;font-size:12pt;font-family:Arial,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot; aria-level=&quot;2&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;text-align: justify;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Ở &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;vòng chung kết:&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; nội dung đoạn mô tả sẽ được &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:italic;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;cung cấp lần lượt&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; theo thời gian dành cho câu truy vấn. Nếu đội dự thi tự tin vào kết quả tìm kiếm video từ những mô tả ban đầu, đội dự thi có thể nộp kết quả sớm để có thể được điểm cao cho câu truy vấn này (nếu kết quả đúng). Tuy nhiên, đội dự thi có thể thận trọng chờ thêm các mô tả tiếp theo về sự kiện để kiểm chứng kết quả tìm được.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:12pt;font-family:Arial,sans-serif;color:#666666;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;text-align: justify;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Yêu cầu truy vấn dạng hình ảnh hay video (Video KIS)&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;: thay vì mô tả bằng ngôn ngữ tự nhiên, các đội dự thi sẽ xem một đoạn video ngắn (không quá 20 giây) được trích ra từ một sự kiện nào đó trong kho dữ liệu video đã cho. Các đội không được phép chụp ảnh, ghi hình đoạn video này để đưa vào công cụ của mình mà phải tìm cách diễn tả yêu cầu tìm kiếm, ví dụ như mô tả bằng ngôn ngữ tự nhiên nội dung video hay vẽ lại bối cảnh mình nhìn thấy… Dạng truy vấn này chỉ được áp dụng ở &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;vòng chung kết&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; của cuộc thi.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:disc;font-size:12pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;text-align: justify;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Yêu cầu truy vấn dạng Q&amp;amp;A&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;: Ban giám khảo cung cấp mô tả bằng ngôn ngữ tự nhiên của một sự kiện và câu hỏi về thông tin trong sự kiện này. Các đội dự thi cần tìm ra chính xác đoạn video của sự kiện này. Đoạn mô tả có thể gồm nhiều ý, nhiều câu văn. Câu trả lời là một chuỗi gồm các ký tự từ “0” đến “9”.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;padding-inline-start:48px;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type:circle;font-size:12pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;&quot; aria-level=&quot;2&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;text-align: justify;margin-top:0pt;margin-bottom:9pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Ở &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;vòng sơ tuyển&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;: nội dung đoạn mô tả được &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:700;font-style:italic;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;cung cấp sẵn, trọn vẹn&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; để các đội dự thi có thể tìm kiếm video theo mô tả&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Ở &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;vòng chung kết:&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; Câu hỏi sẽ &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:700;font-style:italic;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;được cung cấp ngay từ đầu&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;. Nội dung đoạn mô tả sẽ được &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:700;font-style:italic;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;cung cấp lần lượt&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#0000ff;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; theo thời gian dành cho câu truy vấn. Nếu đội dự thi tự tin vào kết quả tìm kiếm video từ những mô tả ban đầu, đội dự thi có thể nộp kết quả sớm để có thể được điểm cao cho câu truy vấn này (nếu kết quả đúng). Tuy nhiên, đội dự thi có thể thận trọng chờ thêm các mô tả tiếp theo về sự kiện để kiểm chứng kết quả tìm được.&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="120" width="560" height="930" as="geometry" />
+        </mxCell>
+        <mxCell id="_iK8D-2FvXh4Rmg2TUd6-3" value="Dạng 1:&lt;div&gt;- có nhiều câu mô tả. có thể cùng lúc hoặc lần lượt -&amp;gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;trả ra vị trí và video.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Dạng 2:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Từ video -&amp;gt; mô tả ảnh hoặc văn bản -&amp;gt; trả ra vị trí của video&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Dạng 3:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Giống với dạng 1. nhưng lần này sẽ đưa ra câu trả lời cho câu hỏi thay vì vị trí video đó&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="750" y="310" width="310" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Unx6OYOfaWwuwpdmfeZV" name="Page-2">
+    <mxGraphModel dx="988" dy="2584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="64__7UQ6sDWs-SWu5UM7-1" value="Mô hình yêu cầu (Tạm thời)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Xác định được &lt;u&gt;danh sách&lt;/u&gt; những Video khả thi liên quan đến truy vấn đang tìm kiếm. -&amp;gt; Giảm thời gian phải xử lý.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Với mỗi video trả ra đoạn khả thi nhất theo điểm số nào đó [u,v]. -&amp;gt; để người dùng xem lại một lần&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Trả lời câu hỏi sẽ do người dùng cân nhắc nội dung của video&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- khi các câu mô tả được thêm vào hệ thống phải chạy tiếp chứ không được chạy lại&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Có thể chọn các tham số như checkbox để lấy phần giao, hợp, hoặc loại ra.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Có thể thêm video vào dễ dàng&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Có giao diện thân thiện -&amp;gt; DJANGO ?&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="100" y="-70" width="450" height="520" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rfIR66pPYt_yQYKcGMVf" name="Page-3">
+    <mxGraphModel dx="1838" dy="1484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wkcmUXmksVHShLTnnCpT-3" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wkcmUXmksVHShLTnnCpT-1" target="wkcmUXmksVHShLTnnCpT-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wkcmUXmksVHShLTnnCpT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wkcmUXmksVHShLTnnCpT-1" target="wkcmUXmksVHShLTnnCpT-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wkcmUXmksVHShLTnnCpT-1" value="Video" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wkcmUXmksVHShLTnnCpT-11" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wkcmUXmksVHShLTnnCpT-2" target="wkcmUXmksVHShLTnnCpT-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wkcmUXmksVHShLTnnCpT-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wkcmUXmksVHShLTnnCpT-2" target="wkcmUXmksVHShLTnnCpT-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wkcmUXmksVHShLTnnCpT-2" value="Văn bản Âm thanh" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wkcmUXmksVHShLTnnCpT-16" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wkcmUXmksVHShLTnnCpT-4" target="wkcmUXmksVHShLTnnCpT-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wkcmUXmksVHShLTnnCpT-4" value="KeyFrame" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wkcmUXmksVHShLTnnCpT-6" value="Media Info" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wkcmUXmksVHShLTnnCpT-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;" parent="1" source="wkcmUXmksVHShLTnnCpT-1" target="wkcmUXmksVHShLTnnCpT-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="460" as="sourcePoint" />
+            <mxPoint x="150" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wkcmUXmksVHShLTnnCpT-8" value="Clip feature 32" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wkcmUXmksVHShLTnnCpT-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="wkcmUXmksVHShLTnnCpT-1" target="wkcmUXmksVHShLTnnCpT-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="290" as="sourcePoint" />
+            <mxPoint x="190" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wkcmUXmksVHShLTnnCpT-10" value="Object được nhắc tới" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wkcmUXmksVHShLTnnCpT-12" value="Tóm tắt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wkcmUXmksVHShLTnnCpT-14" value="Object trong từng key frame" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wkcmUXmksVHShLTnnCpT-17" value="Image Caption" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wkcmUXmksVHShLTnnCpT-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;" parent="1" source="wkcmUXmksVHShLTnnCpT-4" target="wkcmUXmksVHShLTnnCpT-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="420" as="sourcePoint" />
+            <mxPoint x="390" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wkcmUXmksVHShLTnnCpT-20" value="OCR ???" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wkcmUXmksVHShLTnnCpT-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;" parent="1" source="wkcmUXmksVHShLTnnCpT-4" target="wkcmUXmksVHShLTnnCpT-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="480" as="sourcePoint" />
+            <mxPoint x="450" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NdYlCeQCbCe_D5UK2hrB-12" target="ByELKKtamKLCPXEzUEcX-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdYlCeQCbCe_D5UK2hrB-12" value="List Object" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-1" value="Dùng như bảng đặc trưng - vector (1x gì đó)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="640" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-3" value="Dùng như filter để lọc video - chia thành các list khác nhau" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="720" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NdYlCeQCbCe_D5UK2hrB-12" target="ByELKKtamKLCPXEzUEcX-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="630" as="sourcePoint" />
+            <mxPoint x="280" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ByELKKtamKLCPXEzUEcX-5" target="ByELKKtamKLCPXEzUEcX-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-5" value="Caption hay các dạng văn bản mang ý nghĩa" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ByELKKtamKLCPXEzUEcX-6" target="ByELKKtamKLCPXEzUEcX-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-6" value="Model nào đó" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-8" value="Đặc trưng dạng 1 chiều - black box - vector (1 x 4096) ???" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="840" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ByELKKtamKLCPXEzUEcX-10" target="ByELKKtamKLCPXEzUEcX-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-10" value="Caption 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ByELKKtamKLCPXEzUEcX-11" target="ByELKKtamKLCPXEzUEcX-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-11" value="Caption 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ByELKKtamKLCPXEzUEcX-12" target="ByELKKtamKLCPXEzUEcX-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-12" value="Model nào đó" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ByELKKtamKLCPXEzUEcX-14" target="ByELKKtamKLCPXEzUEcX-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-14" value="Model nào đó" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ByELKKtamKLCPXEzUEcX-16" target="ByELKKtamKLCPXEzUEcX-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-16" value="1x4096" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ByELKKtamKLCPXEzUEcX-18" target="ByELKKtamKLCPXEzUEcX-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-18" value="1x4096" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-20" value="Maybe train theo cách này&lt;br&gt;- Lấy 2 cái caption khác nhau nhưng đều cùng về video đó&lt;br&gt;- dùng model để tạo ra vector feature 1 chiều&lt;div&gt;- Trừ nhau&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Loss tính càng gần 0 càng tốt.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="960" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ByELKKtamKLCPXEzUEcX-21" target="ByELKKtamKLCPXEzUEcX-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-21" value="Lấy caption 1 - cho caption 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ByELKKtamKLCPXEzUEcX-24" value="Tất cả giá trị gần 0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ww_MPHNqzx2YeQSKQ-kY" name="Page-4">
+    <mxGraphModel dx="3226" dy="1301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-1" value="App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-4" value="Add Video" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wosqtR3rxkkHjJ3qAtyi-5" target="wosqtR3rxkkHjJ3qAtyi-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-5" value="Retrain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wosqtR3rxkkHjJ3qAtyi-6" target="wosqtR3rxkkHjJ3qAtyi-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-6" value="Search" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wosqtR3rxkkHjJ3qAtyi-1" target="wosqtR3rxkkHjJ3qAtyi-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="261.3599999999999" y="320.00000000000006" as="sourcePoint" />
+            <mxPoint x="80" y="338.32" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wosqtR3rxkkHjJ3qAtyi-1" target="wosqtR3rxkkHjJ3qAtyi-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="310" as="sourcePoint" />
+            <mxPoint x="190" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wosqtR3rxkkHjJ3qAtyi-1" target="wosqtR3rxkkHjJ3qAtyi-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="310" as="sourcePoint" />
+            <mxPoint x="390" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wosqtR3rxkkHjJ3qAtyi-10" target="wosqtR3rxkkHjJ3qAtyi-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wosqtR3rxkkHjJ3qAtyi-10" target="wosqtR3rxkkHjJ3qAtyi-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-10" value="Split Video into Key frames" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wosqtR3rxkkHjJ3qAtyi-11" target="wosqtR3rxkkHjJ3qAtyi-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-11" value="Audio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wosqtR3rxkkHjJ3qAtyi-4" target="wosqtR3rxkkHjJ3qAtyi-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="480" as="sourcePoint" />
+            <mxPoint x="80" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wosqtR3rxkkHjJ3qAtyi-4" target="wosqtR3rxkkHjJ3qAtyi-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="470" as="sourcePoint" />
+            <mxPoint x="70" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wosqtR3rxkkHjJ3qAtyi-14" target="wosqtR3rxkkHjJ3qAtyi-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-14" value="Audio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wosqtR3rxkkHjJ3qAtyi-16" target="wosqtR3rxkkHjJ3qAtyi-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-16" value="Text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-18" value="Embed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wosqtR3rxkkHjJ3qAtyi-20" target="wosqtR3rxkkHjJ3qAtyi-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-20" value="Caption" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-22" value="Embed" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wosqtR3rxkkHjJ3qAtyi-24" target="wosqtR3rxkkHjJ3qAtyi-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-24" value="Text" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-26" value="Embed" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wosqtR3rxkkHjJ3qAtyi-28" target="wosqtR3rxkkHjJ3qAtyi-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-28" value="Build Data" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wosqtR3rxkkHjJ3qAtyi-30" target="wosqtR3rxkkHjJ3qAtyi-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-30" value="Train model" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-32" value="Projection data" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wosqtR3rxkkHjJ3qAtyi-34" value="Calculate distance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
 </mxfile>

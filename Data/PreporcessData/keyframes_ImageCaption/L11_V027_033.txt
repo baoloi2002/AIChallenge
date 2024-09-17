@@ -1,0 +1,1 @@
+_BAR_i khi chương trình khi khởi động chương trình Comment

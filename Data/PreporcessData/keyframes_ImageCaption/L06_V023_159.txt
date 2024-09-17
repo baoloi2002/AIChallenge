@@ -1,0 +1,1 @@
+_BAR_i bộ trình chiếu đèn lớn màn hình đang được hiển thị trên <i>
