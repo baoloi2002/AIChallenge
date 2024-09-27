@@ -16,3 +16,15 @@ venv/
 
 # Ignore all .pt files
 *.pt
+
+# Ignore all .pth files
+*.pth
+
+# Ignore all .pkl files
+*.pkl
+
+# Ignore all .csv files
+*.csv
+
+# Ignore all .txt files
+*.txt
