@@ -1,1 +1,0 @@
-Một dấu hiệu với một con khỉ trên đó và một dấu hiệu cho biết "không chạm vào con khỉ"

@@ -1,1 +1,0 @@
-i trên khung xem của nhà máy in vim

@@ -1,1 +1,0 @@
-_BAR_ cần máy phục vụ thu nhỏ được hiển thị đang hiển thị trên hiển thị tại chương trình tự động hiển thị

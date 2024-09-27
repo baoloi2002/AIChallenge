@@ -43,6 +43,8 @@ if __name__ == "__main__":
     PJF_model.to("cuda")
     model = PJFTrainModel(model=PJF_model)
     model.to("cuda")
+    # load state
+    model.load_state_dict(torch.load("D:\\AIChallenge\\Checkpoints\\model_epoch_9.pt"))
 
     criterion = nn.MSELoss()
     optimizer = AdamW(model.parameters(), lr=1)
@@ -51,7 +53,7 @@ if __name__ == "__main__":
         lr_lambda=lambda step: misc_rate(step, 3, factor=10, warmup_steps=3000 * 16),
     )
 
-    num_epochs = 10
+    num_epochs = 2
 
     for epoch in tqdm(range(num_epochs)):
         sum_loss = 0
@@ -66,7 +68,7 @@ if __name__ == "__main__":
             loss += criterion(output, target)
             sum_loss += loss.item()
             step += 1
-            if step == 256:
+            if step == 369:
                 loss /= step
                 loss.backward()
                 optimizer.step()
